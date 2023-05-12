@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About IRIS-Tech Solutions</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+	<header>
+		<nav>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="about.html">About</a></li>
+				<li><a href="services.html">Services</a></li>
+				<li><a href="portfolio.html">Portfolio</a></li>
+				<li><a href="contact.html">Contact</a></li>
+			</ul>
+			<div class="burger">
+				<div></div>
+				<div></div>
+				<div></div>
+			</div>
+		</nav>
+		<div class="hero-section">
+			<h1>About IRIS-Tech Solutions</h1>
+		</div>
+	</header>
+less
+Copy code
+<main>
+	<section>
+		<h2>Our Story</h2>
+		<p>IRIS-Tech Solutions is a leading IT solutions provider headquartered in the heart of the tech industry. Our mission is to help our clients achieve their business goals by providing them with cutting-edge technology solutions that are tailored to their specific needs.</p>
+		<p>Our team of experienced developers, designers, and IT professionals are dedicated to delivering high-quality, reliable, and scalable solutions to our clients. We pride ourselves on our ability to understand our clients' business objectives and work closely with them to develop custom solutions that meet their unique requirements.</p>
+	</section>
+
+	<section>
+		<h2>Our Team</h2>
+		<p>Meet the talented individuals behind IRIS-Tech Solutions:</p>
+		<ul>
+			<li>John Doe - CEO</li>
+			<li>Jane Smith - CTO</li>
+			<li>Mike Johnson - Head of Development</li>
+			<li>Samantha Lee - UX Designer</li>
+			<li>David Chen - Cyber Security Specialist</li>
+		</ul>
+	</section>
+</main>
+
+<footer>
+	<p>Copyright © 2021 IRIS-Tech Solutions</p>
+</footer>
+</body>
+</html>
